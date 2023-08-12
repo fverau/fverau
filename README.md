@@ -39,10 +39,16 @@ Soy un desarrollador Frontend, ubicado en Chile. <img src="https://media.giphy.c
 ### 💪 Proyectos Destacados:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fverau&repo=pig-game)](https://github.com/fverau/pig-game)
 
+---
+
+### :fire: Estadísticas:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fverau&theme=vue&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fverau&layout=compact)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Lenguajes y Herramientas :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React Logo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript logo" width="40" height="40"/>&nbsp;
@@ -54,12 +60,7 @@ Soy un desarrollador Frontend, ubicado en Chile. <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL logo" width="40" height="40"/>&nbsp;
 </div>
 
----
 
-### :fire: My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fverau&theme=vue&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fverau&layout=compact)
 
 <!-- -->
 
