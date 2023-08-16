@@ -33,7 +33,7 @@ Soy un desarrollador Frontend, ubicado en Chile. <img src="https://media.giphy.c
 
 - :zap: En mis tiempos libres paseo, juego y leo.
 
-- :mailbox:Contáctame: [![Linkedin Badge](https://img.shields.io/badge/-Fabián-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabianveru/)
+- :mailbox:Contáctame: [![Linkedin Badge](https://img.shields.io/badge/-Fabián-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabianverau/)
 
 ---
 ### 💪 Proyectos Destacados:
