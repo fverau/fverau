@@ -38,6 +38,7 @@ Soy un desarrollador Frontend, ubicado en Chile. <img src="https://media.giphy.c
 ---
 ### 💪 Proyectos Destacados:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fverau&repo=pig-game)](https://github.com/fverau/pig-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fverau&repo=tictactoe-react)](https://github.com/fverau/tictactoe-react)
 
 ---
 
